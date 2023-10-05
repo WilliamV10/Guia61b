@@ -1,5 +1,6 @@
 img {width:3cm;height:3cm;}
-table {width:80%;margin:auto;}
+table {width:80%;margin:auto; background-color: darkgrey;
+}
 th#price {cursor:pointer;}
 li {color:blue;}
 /*si chequea muestra los productos sin cheque desaparecen los productos*/
@@ -12,9 +13,6 @@ input#c3:not(checked) ~ table tbody tr.c3 { display: none; }
 input#c4:checked ~ table tbody tr.c4 { display: table-row; }
 input#c4:not(checked) ~ table tbody tr.c4 { display: none; }
 
-.p{
-    text-decoration-color: aqua;
-}
 h2{
     color:blue;
     font-style: italic;
