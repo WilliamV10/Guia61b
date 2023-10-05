@@ -16,6 +16,6 @@ input#c4:not(checked) ~ table tbody tr.c4 { display: none; }
     text-decoration-color: aqua;
 }
 h2{
-    background-color: blue;
+    color:blue;
     font-style: italic;
 }
