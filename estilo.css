@@ -15,6 +15,11 @@ input#c4:not(checked) ~ table tbody tr.c4 { display: none; }
 
 #color{
     color:rgb(255, 0, 0);
-    size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+#negrita{
+    color: black;
+    font-weight: bold;
     font-style: italic;
 }
