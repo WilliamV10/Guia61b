@@ -27,6 +27,7 @@ tr{
 tbody{
     text-align: justify;
     font-weight:normal;
+    font-family: "Times New Roman", Times, serif;
 }
 #color{
     color:rgb(255, 0, 0);
